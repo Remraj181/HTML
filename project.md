@@ -1,8 +1,4 @@
 # HTML   Notes
-![image]()
-
-                                                                 AMIT KUMAR
-                                                                 01/07/2024
 
 
 # Table of contents
